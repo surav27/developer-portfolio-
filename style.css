@@ -57,16 +57,20 @@ section{
     width: 50%;
     margin-left: 150px;
     padding: 10px;
-    margin-top: 150px;
+    margin-top: 100px;
     
 
 
 }
-.imageTwo img{
-    padding: 10px;
-    border: 1px solid rebeccapurple;
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
+
 .dream-text{
+    width: 50%;
 
 }
 
@@ -76,6 +80,8 @@ section{
 .imageTwo img{
     width: 300px;
     height: 200px;
+    padding: 10px;
+    border: 1px solid rebeccapurple;
 }
 .resume{
     text-decoration: none;
